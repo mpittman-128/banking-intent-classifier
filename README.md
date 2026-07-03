@@ -202,8 +202,6 @@ To understand *how* the model fails — not just how often — I generated a con
 
 ## 👩‍💻 Author
 
-## 👩‍💻 Author
-
 **Monica Pittman**
 Full-Stack Software Engineer | NLU/NLP Specialist
 
