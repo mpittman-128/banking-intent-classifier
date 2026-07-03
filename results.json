@@ -1,0 +1,8 @@
+{
+  "train_accuracy": 91.91242627211837,
+  "test_accuracy": 90.74675324675324,
+  "test_loss": 0.3963451589428887,
+  "num_intents": 77,
+  "training_examples": 10003,
+  "test_examples": 3080
+}
