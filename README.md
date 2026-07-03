@@ -123,6 +123,9 @@ python -m pip install -r requirements.txt
 cd src
 python main.py
 ```
+> **Note:** The trained model file (`model.pth`) is not included due to
+> GitHub's file size limits. Running `python main.py` will train it from
+> scratch — approximately 40 minutes on CPU.
 
 **4. Run a prediction**
 ```bash
@@ -199,12 +202,13 @@ To understand *how* the model fails — not just how often — I generated a con
 
 ## 👩‍💻 Author
 
+## 👩‍💻 Author
+
 **Monica Pittman**
 Full-Stack Software Engineer | NLU/NLP Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/monica-pittman-55914b183/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mpittman-128)
 ---
 
 ## 📄 License
